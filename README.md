@@ -18,3 +18,13 @@ After Extraction Open The Folder
 Now You Can Find Webpage File Named ‘index.html’
 
 Open It and Enjoy W3Schools In offline version.
+
+
+
+
+
+
+
+
+
+Collected from <a href="https://www.pinoysourcecode.com" target="_blank">PinoySourceCodes</a>
