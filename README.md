@@ -27,4 +27,4 @@ Open It and Enjoy W3Schools In offline version.
 
 
 
-Collected from <a href="https://www.pinoysourcecode.com" target="_blank">PinoySourceCodes</a>
+Collected from <a href="https://www.google.com/search?q=PinoySourceCodes" target="_blank">PinoySourceCodes</a>
